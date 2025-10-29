@@ -1,0 +1,13 @@
+{
+  "n_samples": 479,
+  "seq_len": 5,
+  "n_features": 3,
+  "best_valid_mse": 2007.7390543619792,
+  "best_valid_rmse": 44.80780126676581,
+  "best_epoch": 89,
+  "batch_size": 64,
+  "hidden_size": 128,
+  "num_layers": 2,
+  "dropout": 0.1,
+  "lr": 0.001
+}
