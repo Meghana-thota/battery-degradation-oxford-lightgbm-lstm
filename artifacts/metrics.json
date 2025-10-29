@@ -1,0 +1,11 @@
+{
+  "best_iteration": 126,
+  "valid_rmse": 2.9175829735928027,
+  "n_train": 408,
+  "n_valid": 103,
+  "n_features_used": 31,
+  "dropped_columns": [],
+  "categorical_columns": [
+    "cell_id"
+  ]
+}
